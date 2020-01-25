@@ -6,6 +6,7 @@ Continuing the starter project [here](https://github.com/joinpursuit/Pursuit-Cor
 
 ### Backend
 
+
 Complete the `posts.js` file adding implementations for the following routes
 
 - /posts/all
