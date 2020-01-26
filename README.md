@@ -12,7 +12,7 @@ Complete the `posts.js` file adding implementations for the following routes
 - /posts/all
 - /posts/:user_id
 - /posts/register
-
+`
 ### Frontend
 
 Add UI elements to:
